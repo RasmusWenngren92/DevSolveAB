@@ -1,0 +1,6 @@
+@DevSolveAB_HostAddress = http://localhost:5140
+
+GET {{DevSolveAB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
